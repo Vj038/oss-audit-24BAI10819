@@ -1,6 +1,7 @@
 # 🔍 OSS Audit — Git
 ### Open Source Software | Capstone Project
-**Student:** 24BAI10819  
+**Name** Ved Jariya
+**Reg no:** 24BAI10819  
 **Software Audited:** Git  
 **License:** GPL v2  
 **Course:** Open Source Software (NGMC)
